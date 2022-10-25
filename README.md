@@ -11,7 +11,7 @@ Based on the starter code we were given, we were tasked with creating a README g
 1. Git clone into VSCode
 2. Right click `index.js` file and select `Open in Integrated Terminal`
 3. Run `npm init -y`
-4. Run `npm i inquirer`
+4. Run `npm i inquirer@8.2.4`
 
 ## Usage
 
