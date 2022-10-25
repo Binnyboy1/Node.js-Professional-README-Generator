@@ -15,7 +15,7 @@
   6. [Questions](#questions)
 
   ## Installation
-  1. Git Clone into VSCode /n2. Right click 'index.js' file and select 'Open in Integrated Terminal' /n3. Run 'npm init -y' /n4. Run npm i inquirer
+  ```1. Git clone into VSCode /n2. Right click 'index.js' file and select 'Open in Integrated Terminal' /n3. Run 'npm init -y' /n4. Run 'npm i inquirer'```
 
   ## Usage
   In the terminal, run 'node index.js' and fill out all the questions. Doing so will create your desired README.
@@ -24,7 +24,7 @@
   Here is where you would list your guidelines on how others can contribute to your project.
 
   ## Tests
-  We will figure this out later... hopefully
+  We will figure this out later... hopefully.
 
   ## License
   Licensed under [MIT License](https://opensource.org/licenses/MIT)
